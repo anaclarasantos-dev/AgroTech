@@ -27,13 +27,13 @@ const createItems = async (req, res) => {
             },
             {
                 nome: "Luciano Hulk",
-                CNH: 08279424413,
+                CNH: 18279424413,
                 disponivel: "Indisponível",
                 statusMotorista: "sim"
             },
             {
                 nome: "Robert Pertenson",
-                CNH: 05354335223,
+                CNH:15354335223,
                 disponivel: "Disponível",
                 statusMotorista: "nao"
             },
